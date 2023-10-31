@@ -73,7 +73,7 @@ body{
 }
 #navbar li a:hover,
 #navbar li a.active{
-   color:#c7e51a; 
+   color:#e51a1a; 
 }
 #navbar li a.active::after,
 #navbar li a:hover::after{
